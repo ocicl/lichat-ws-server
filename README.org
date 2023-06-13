@@ -1,0 +1,10 @@
+* lichat-ws-server
+
+A simple WebSocket server implementation for lichat.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Shirakumo/lichat-ws-server.git   |
+| commit  | 1016efb  |
+| systems | lichat-ws-server |
+|---------+-------------------------------------------|
+
