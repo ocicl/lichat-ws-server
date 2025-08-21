@@ -4,6 +4,6 @@ A simple WebSocket server implementation for lichat.
 
 |---------+---------------------------------------------------------|
 | source  | git:https://codeberg.org/shirakumo/lichat-ws-server.git |
-| commit  | de14bc3                                                 |
+| commit  | ca5abb4                                                 |
 | systems | lichat-ws-server                                        |
 |---------+---------------------------------------------------------|
