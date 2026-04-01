@@ -7,3 +7,4 @@ A simple WebSocket server implementation for lichat.
 | commit  | ca5abb4                                                 |
 | systems | lichat-ws-server                                        |
 |---------+---------------------------------------------------------|
+ 
